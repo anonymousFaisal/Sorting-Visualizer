@@ -1,4 +1,3 @@
-# Updated project Git Link https://github.com/anonymousFaisal/Sorting-Visualizer-Using-Tkinter.git
 # Project: Sorting Visualizer Using Tkinter and Python
 # Author: Nahid Hasan
 # Modified by: Nahid Hasan, Suchana Biswas, Limon Majumdar
